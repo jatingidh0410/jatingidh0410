@@ -1,3 +1,4 @@
+![logo](https://github.com/Jatin0410/Jatin0410/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jatin R Gidh</h1>
 <h3 align="center">🌐 Unveiling the Cyber Shadows: Navigating the Intricate Web of Hacking in the Digital Realm 🔒💻</h3>
 <img align="right" alt="hacker" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
