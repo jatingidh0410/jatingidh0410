@@ -2,7 +2,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h3 align="center">🛡️ Guardian of the virtual gates</h3>
 <h4> Navigating the algorithmic maze to 🚀 create optimized solutions for complex problems.</h4>
-<img align="right" alt="hacker" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
+<img align="right" alt="hacker" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100">
 <br><br> </p>
 <div alt="left">
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Halo.webp" alt="Smiling Face With Halo" width="25" height="25" />
