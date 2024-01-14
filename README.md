@@ -2,12 +2,14 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <h3 align="center">🛡️ Guardian of the virtual gates</h3>
 <h4> Navigating the algorithmic maze to 🚀 create optimized solutions for complex problems.</h4>
-<img align="right" alt="hacker" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="100">
-<br><br> </p>
+
 <div alt="left">
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Halo.webp" alt="Smiling Face With Halo" width="25" height="25" />
   <img alt="Static Badge" src="https://img.shields.io/badge/About_me-155263">
 </div>
+<p>
+<img align="right" alt="hacker" width="300" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200">
+<br><br> </p>
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ethical+hacking%2CDSA." alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%93%AB+How+to+reach+me%3A+jatingidh108%40gmail.com" alt="Typing SVG" />
