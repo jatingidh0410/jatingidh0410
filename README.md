@@ -5,11 +5,11 @@
 <img align="right" alt="hacker" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin0410&label=Profile%20views&color=0e75b6&style=flat" alt="jatin0410" /> </p>
 
-- 🌱 I’m currently learning **ethical hacking,DSA.**
-
-- 📫 How to reach me **jatingidh108@gmail.com**
-
-- ⚡ Fun fact **Coders break keyboards; hackers break firewalls—same passion, different impact.**
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ethical+hacking%2CDSA." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%93%AB+How+to+reach+me%3A+jatingidh108%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=⚡+Fun+fact%3A+Coders+break+keyboards%3B+hackers+break+firewalls—same+passion%2C+different+impact." alt="Typing SVG" />
+</div>
 
 <h3 align="left">Connect with me:</h3>
  <p align="left">
