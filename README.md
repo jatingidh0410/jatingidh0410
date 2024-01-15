@@ -47,4 +47,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingidh0410&" alt="jatin0410" /></p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Visitors_count-155263">
+</div>
+
+![Visitor Count](https://profile-counter.glitch.me/jatingidh0410/count.svg)
