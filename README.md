@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />, I'm Jatin R Gidh</h1>
+9<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" />, I'm Jatin R Gidh</h1>
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <p>
 <h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Ninja%20Medium-Light%20Skin%20Tone.png" alt="Ninja Medium-Light Skin Tone" width="20" height="20" />Guardian of the virtual gates <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="20" height="20" /></h2>
@@ -12,9 +12,9 @@
    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Halo.webp" alt="Smiling Face With Halo" width="25" height="25" />
   <img alt="Static Badge" src="https://img.shields.io/badge/About_me-155263">
 </div>
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ethical+hacking%2CDSA." alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=%F0%9F%93%AB+How+to+reach+me%3A+jatingidh108%40gmail.com" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=100&width=600&lines=⚡+Fun+fact%3A+Coders+break+keyboards%3B+hackers+break+firewalls—same+passion%2C+different+impact." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=45&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ethical+hacking%2CDSA." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=45&width=600&lines=%F0%9F%93%AB+How+to+reach+me%3A+jatingidh108%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=45&width=600&lines=⚡+Fun+fact%3A+Coders+break+keyboards%3B+hackers+break+firewalls—same+passion%2C+different+impact." alt="Typing SVG" />
 </div>
  <p align="left">
     <div alt="left">
