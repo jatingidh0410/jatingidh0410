@@ -32,7 +32,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Languages_And_Tools-155263">
 </div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,flutter,dart,linux,python,html,css,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,flutter,dart,linux,python,html,css,mysql,vscode,mongodb,py,kali" />
   </a>
 </p>
 <div align="left">
