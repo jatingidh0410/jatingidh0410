@@ -13,7 +13,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/About_me-155263">
 </div>
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=45&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ethical+hacking%2CDSA." alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=45&width=600&lines=%F0%9F%93%AB+How+to+reach+me%3A+jatingidh108%40gmail.com" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=45&width=600&lines=%F0%9F%93%AB+How+to+reach+me%3A+jatingidh04%40gmail.com" alt="Typing SVG" />
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=45&width=600&lines=⚡+Fun+fact%3A+Coders+break+keyboards%3B+hackers+break+firewalls—same+passion%2C+different+impact." alt="Typing SVG" />
 </div>
  <p align="left">
