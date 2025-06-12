@@ -23,7 +23,7 @@
 </div>
    <a href="https://discord.com/users/1077986999090290799" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="70" alt="insane#9041"/></a>
   <a href="https://instagram.com/jatin_gidh_10" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70"></a>
-  <a href="https://www.linkedin.com/in/jatin-gidh-030166273" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
+  <a href="https://www.linkedin.com/in/jatin-gidh" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70"></a>
   <a href="https://twitter.com/@gidh_jatin" target="blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="70"></a>
 </p>
 <p align="left">
