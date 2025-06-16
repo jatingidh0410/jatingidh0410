@@ -88,13 +88,11 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatingidh0410&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
-<!-- dynamo -->
-<p><img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="350" height="200" " /></p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingidh0410&theme=dark" alt="GitHub Streak" />
+<!-- dynamo -->
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="390" height="250" />
 </p>
-
-
 <!-- 🔥 Bottom GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
