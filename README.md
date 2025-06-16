@@ -15,11 +15,10 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="20" height="20" />
 </h2>
 <!-- 👾 One-liner about your mission -->
-<h3>
+<h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
-  Navigating the algorithmic maze to 
+  Navigating the algorithmic maze to create optimized solutions for complex problems.
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" />
-  create optimized solutions for complex problems.
 </h3>
 
 <!-- 🧑‍💻 Hacker GIF -->
@@ -28,6 +27,7 @@
 </p>
 
 <!-- 🙌 About Me -->
+<br/>
 <div align="left">
   <div>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Halo.webp" alt="Halo" width="25" height="25" />
@@ -81,27 +81,35 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Hourglass%20Done.png" alt="Hourglass Done" width="25" height="25" />
   <img alt="Static Badge" src="https://img.shields.io/badge/GitHub_History-155263">
 </div>
+<!-- GitHub Stats Section -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jatingidh0410&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatingidh0410&theme=dark" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingidh0410&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+    </td>
+    <td>
+      <img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="490" height="180">
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingidh0410&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatingidh0410&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingidh0410&theme=dark" alt="GitHub Streak" />
-<!-- dynamo -->
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="390" height="250" />
-</p>
 <!-- 🔥 Bottom GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 
 <!-- 🔥 Visitor Counter -->
-<div align="left">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Visitors_count-155263">
+
+  <!-- 👁️ Real-Time Visitor Count -->
+  ![Visitor Count](https://profile-counter.glitch.me/jatingidh0410/count.svg)
 </div>
 
-<!-- 👁️ Real-Time Visitor Count -->
-![Visitor Count](https://profile-counter.glitch.me/jatingidh0410/count.svg)
