@@ -14,7 +14,6 @@
   Guardian of the virtual gates 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="20" height="20" />
 </h2>
-
 <!-- 👾 One-liner about your mission -->
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
@@ -84,15 +83,15 @@
 </div>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingidh0410&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingidh0410&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatingidh0410&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jatingidh0410&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </p>
 <!-- dynamo -->
 <p><img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="350" height="200" " /></p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingidh0410&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatingidh0410&theme=dark" alt="GitHub Streak" />
 </p>
 
 
