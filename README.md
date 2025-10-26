@@ -125,6 +125,12 @@
   <img src="https://komarev.com/ghpvc/?username=jatingidh0410&label=Profile%20Views&color=ff4500&style=flat-square" alt="Visitor Count" />
 </div>
 
+<p align="center">
+  <a href="https://github.com/jatingidh0410/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jatingidh0410&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  </a>
+</p>
+
 <!-- 🏆 GitHub Profile Trophy 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
