@@ -107,14 +107,19 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingidh0410&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
     </td>
     <td>
-      <img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="490" height="150">
+      <!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="490" height="150"> -->
+      <p align="center">
+        <a href="https://github.com/jatingidh0410/github-profile-trophy">
+          <img src="https://github-profile-trophy.vercel.app/?username=jatingidh0410&theme=dracula&column=4&margin-w=15&margin-h=15&title=Followers,Stars,Commit,Experience" alt="GitHub Trophies" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
 <!-- 🔥 Bottom GIF -->
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <!-- 🔥 Visitor Counter -->
 <!--
@@ -129,18 +134,16 @@
   ![Visitor Count](https://profile-counter.glitch.me/jatingidh0410/count.svg) 
 </div> -->
 <!-- 👁️ Real-Time Visitor Count -->
- 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="100%" height="160"><img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+</p>
 <!-- 🔥 Visitor Counter -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" />
   <img src="https://komarev.com/ghpvc/?username=jatingidh0410&label=Profile%20Views&color=ff4500&style=flat-square" alt="Visitor Count" />
 </div>
 
-<p align="center">
-  <a href="https://github.com/jatingidh0410/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jatingidh0410&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+
 
 <!-- 🏆 GitHub Profile Trophy 
 <div align="center">
