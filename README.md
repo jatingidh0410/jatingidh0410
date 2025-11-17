@@ -110,7 +110,7 @@
       <!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="490" height="150"> -->
       <p align="center">
         <a href="https://github.com/jatingidh0410/github-profile-trophy">
-          <img src="https://github-profile-trophy.vercel.app/?username=jatingidh0410&theme=dracula&column=4&margin-w=15&margin-h=15&title=Followers,Stars,Commit,Experience" alt="GitHub Trophies" />
+          <img src="https://github-profile-trophy.vercel.app/?username=jatingidh0410&theme=dracula&column=4&margin-w=25&margin-h=25&title=Followers,Stars,Commit,Experience" alt="GitHub Trophies" />
         </a>
       </p>
     </td>
