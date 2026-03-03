@@ -23,9 +23,10 @@ jobs:
           output_path: trophy.svg
           theme: dracula
           column: 4
+          row: 1
           margin_w: 25
           margin_h: 25
-          title: Followers,Stars,Commit,Experience
+          title: Followers,Stars,Commits,Experience
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
