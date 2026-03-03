@@ -118,8 +118,8 @@
     </td>
     <td align="center">
       <!-- Trophies & Milestones -->
-      <a href="https://github.com/jatingidh0410/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=jatingidh0410&theme=dracula&column=4&margin-w=25&margin-h=25&title=Followers,Stars,Commit,Experience" alt="GitHub Profile Trophies" />
+      <a href="https://github.com/jatingidh0410">
+          <img src="./trophy.svg" alt="GitHub Profile Trophies" />
       </a>
     </td>
   </tr>
