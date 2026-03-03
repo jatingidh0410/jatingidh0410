@@ -2,8 +2,8 @@ name: Update GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at 00:00 UTC
-  workflow_dispatch:      # Allows manual run from Actions tab
+    - cron: "0 0 * * *"   # Daily at 00:00 UTC
+  workflow_dispatch:      # Manual trigger from Actions tab
 
 permissions:
   contents: write
