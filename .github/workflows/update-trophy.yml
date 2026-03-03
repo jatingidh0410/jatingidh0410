@@ -2,8 +2,8 @@ name: Update GitHub Trophy
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Daily at 00:00 UTC
-  workflow_dispatch:      # Manual trigger from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -16,18 +16,26 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate trophy SVG
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Install Deno
+        uses: denoland/setup-deno@v1
         with:
-          username: jatingidh0410
-          output_path: trophy.svg
-          theme: dracula
-          column: 4
-          row: 1
-          margin_w: 25
-          margin_h: 25
-          title: Followers,Stars,Commits,Experience
-          token: ${{ secrets.GITHUB_TOKEN }}
+          deno-version: v1.x
+
+      - name: Download Trophy Generator
+        run: |
+          git clone https://github.com/ryo-ma/github-profile-trophy.git
+          cd github-profile-trophy
+
+      - name: Generate SVG
+        run: |
+          cd github-profile-trophy
+          deno run --allow-net --allow-env --allow-read --allow-write render_svg.ts \
+          jatingidh0410 ../trophy.svg dracula \
+          --title Followers,Stars,Commits,Experience \
+          --column 4 \
+          --row 1 \
+          --margin-w 25 \
+          --margin-h 25
 
       - name: Commit and push if changed
         run: |
