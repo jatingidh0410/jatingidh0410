@@ -30,6 +30,7 @@
 
 <!-- ■■■ ABOUT ME ■■■ -->
 <div align="left">
+<br/><br/>
   <div>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Halo.webp" alt="Halo" width="25" height="25" />
     <img src="https://img.shields.io/badge/About_me-155263" alt="About Me Badge" />
