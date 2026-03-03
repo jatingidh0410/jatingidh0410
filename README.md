@@ -23,19 +23,15 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="25" height="25" />
 </h3>
 
-<!-- Hacker Animation -->
-<p>
-  <img  align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" height="350" alt="Hacker Matrix Animation" />
-</p>
-
 <!-- ■■■ ABOUT ME ■■■ -->
 <div align="left">
-<br/><br/>
+<br/>
   <div>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Halo.webp" alt="Halo" width="25" height="25" />
     <img src="https://img.shields.io/badge/About_me-155263" alt="About Me Badge" />
   </div>
-
+  <!-- Hacker Animation -->
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="200" height="250" alt="Hacker Matrix Animation" />
   <!-- Typing Animations (Libre Baskerville Font) -->
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&duration=3000&pause=1000&width=600&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+ethical+hacking%2C+DSA." alt="Typing: Current Learning" />
