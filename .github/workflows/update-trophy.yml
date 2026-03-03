@@ -21,14 +21,15 @@ jobs:
         with:
           deno-version: v1.x
 
-      - name: Download Trophy Generator
+      - name: Clone Trophy Generator
         run: |
           git clone https://github.com/ryo-ma/github-profile-trophy.git
-          cd github-profile-trophy
 
       - name: Generate SVG
+        working-directory: github-profile-trophy
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          cd github-profile-trophy
           deno run --allow-net --allow-env --allow-read --allow-write render_svg.ts \
           jatingidh0410 ../trophy.svg dracula \
           --title Followers,Stars,Commits,Experience \
