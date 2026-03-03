@@ -1,0 +1,38 @@
+name: Update GitHub Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy SVG
+        uses: Erik-Donath/github-profile-trophy@<PINNED_COMMIT_SHA>
+        with:
+          username: jatingidh0410
+          output_path: trophy.svg
+          theme: dracula
+          column: 4
+          margin_w: 25
+          margin_h: 25
+          title: Followers,Stars,Commit,Experience
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add trophy.svg
+            git commit -m "chore: update trophy stats"
+            git push
+          fi
