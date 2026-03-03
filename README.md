@@ -96,7 +96,8 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=jatingidh0410&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+      <!-- https://github-readme-stats.vercel.app/api?username=jatingidh0410&show_icons=true&locale=en&theme=dark -->
+      <img src="https://raw.githubusercontent.com/jatingidh0410/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatingidh0410&theme=dark" alt="GitHub Streak" />
@@ -104,7 +105,7 @@
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingidh0410&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+      <img align="center" src="https://raw.githubusercontent.com/jatingidh0410/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
     </td>
     <td>
       <!-- <img align="center" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="490" height="150"> -->
