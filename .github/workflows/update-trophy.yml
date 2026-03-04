@@ -21,15 +21,16 @@ jobs:
         with:
           username: jatingidh0410
           output_path: trophy.svg
+          theme: darkhub
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit if changed
         run: |
-          if [[ -n $(git status --porcelain) ]]; then
-            git config user.name github-actions
-            git config user.email github-actions@github.com
+          if [[ -n "$(git status --porcelain trophy.svg)" ]]; then
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
             git add trophy.svg
-            git commit -m "update trophy"
+            git commit -m "Update trophy"
             git push
           else
             echo "No changes to commit"
