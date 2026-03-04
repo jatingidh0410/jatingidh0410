@@ -96,13 +96,13 @@
 
 <table align="center" style="border-collapse: separate; border-spacing: 15px;">
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <!-- General Stats Map -->
       <a href="https://github.com/jatingidh0410/github-stats">
         <img src="https://raw.githubusercontent.com/jatingidh0410/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Overview Stats" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <!-- Activity Streak -->
       <a href="https://github.com/jatingidh0410">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatingidh0410&theme=dark" alt="Current GitHub Streak" />
@@ -111,14 +111,15 @@
   </tr>
 
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <!-- Languages Usage Chart -->
       <a href="https://github.com/jatingidh0410/github-stats">
         <img src="https://raw.githubusercontent.com/jatingidh0410/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Top Languages Stats" />
       </a>
     </td>
-    <td align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300" height="250"></img>
+    <td align="center" width="50%">
+      <!-- Theme image Laptopt -->
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45%"></img>
     </td>
 
   </tr>
