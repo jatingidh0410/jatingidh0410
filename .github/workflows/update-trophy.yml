@@ -20,7 +20,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: jatingidh0410
-          output_path: trophy.svg
+          file: trophy.svg
           theme: darkhub
           token: ${{ secrets.GITHUB_TOKEN }}
 
