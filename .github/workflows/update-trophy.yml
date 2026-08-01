@@ -22,7 +22,7 @@ jobs:
           username: jatingidh0410
           file: trophy.svg
           theme: darkhub
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit if changed
         run: |
